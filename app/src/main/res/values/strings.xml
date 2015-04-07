@@ -3,4 +3,50 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <string name="intro">
+        Hello!
+        Iam clari&#8230; I can help you to understand your symptoms so you see the right kind of doctor.
+        Although not as smart as google , I can suggest what to do next and tell you what to ask your doctor.
+        Please understand that Iam not a substitute for professional medical advice.
+        Tap OK to agree to the terms of the super awesome nerds who made me!
+    </string>
+    <string name="title_activity_enter_deatils">EnterDeatils</string>
+    <string name="title_activity_category_choosing">CategoryChoosing</string>
+    <string name="title_activity_question_set_one">questionSet_one</string>
+    <string name="que1a">Do you lift heavy weights?</string>
+    <string name="que1c">Did your back pain develop suddenly?</string>
+    <string name="que1d">Does it move to your legs?</string>
+    <string name="que1e">None of these apply to me</string>
+    <string name="title_activity_question_set_two">questionSet_two</string>
+    <string name="title_activity_que_one_a_yes">que_oneA_yes</string>
+    <string name="title_activity_que_one_a_no">que_oneA_no</string>
+    <string name="que2a">DO u hyave pain or burning sensation while u urinate</string>
+    <string name="que2b">Pain in ur back that moves to ur front and growing</string>
+    <string name="que2c">Are u having trouble with ur periods?</string>
+
+    <string name="oneAFlowQue1">Are you able to do most of your daily activities despite of your back pain?</string>
+    <string name="oneAFlowQue1Yes">you may have a strain or sprain in the ligaments of your back or disc disease\n\n
+                                   -> Take rest for a few days but AVOID COMPLETE BED REST\n\n
+                                    and\n\n
+                                    -> Visit an orthopedics doctor if you don\'t feel better in a week or if the pain is getting more.\n
+                                        Your doctor might prescribe painkillers or Dolo 650 3 times a day just before meals
+    </string>
+    <string name="oneAFlowQue1No">Do u have a pain in your spine or in other joints?</string>
+    <string name="oneANoCyesDyes">You may have a disc disease or sciatica or a strain/sprain visit the orthopedics doctor for advice and therapy</string>
+    <string name="oneANoCyesDno">you may have a strain or sprain in the ligaments of your back or disc disease\n\n
+                                   -> Take rest for a few days but AVOID COMPLETE BED REST\n\n
+                                    and\n\n
+                                    -> Visit an orthopedics doctor if you don\'t feel better in a week or if the pain is getting more.\n
+                                        Your doctor might prescribe painkillers or Dolo 650 3 times a day just before meals
+    </string>
+    <string name="oneANoCnoDyes">You may have a disc disease or sciatica or a strain/sprain visit the orthopedics doctor for advice and therapy\n
+                                 </string>
+
+    <string name="oneANoCnoDno">
+        You may have conditions known as Fibrinolysis or Ankylosing spondylitis or Viral Infection visit a Rheumatologist for advice and treatment \n
+         </string>
+    <string name="title_activity_instant_results">InstantResults</string>
+    <string name="title_activity_que_set_two_result">QueSetTwoResult</string>
+
 </resources>
