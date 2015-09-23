@@ -14,7 +14,6 @@ import com.gc.materialdesign.views.ButtonRectangle;
 public class CategoryChoosing extends ActionBarActivity {
 
     @Override
-    
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_category_choosing);
