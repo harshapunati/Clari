@@ -15,6 +15,8 @@ public class CategoryChoosing extends ActionBarActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_category_choosing);
         ButtonRectangle detailedButton = (ButtonRectangle) findViewById(R.id.detailedButton);
